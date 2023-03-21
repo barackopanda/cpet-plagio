@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Plágio</title>
+	<style>
+		/* estilo para o cabeçalho */
+		header {
+			background-color: #333;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+		
+		/* estilo para o aside */
+		aside {
+			float: left;
+			width: 25%;
+			margin-right: 20px;
+			background-color: #f2f2f2;
+			padding: 20px;
+		}
+
+		/* estilo para o article */
+		article {
+			float: left;
+			width: 50%;
+			background-color: #fff;
+			padding: 20px;
+		}
+
+		/* estilo para a imagem no article */
+		article img {
+			display: block;
+			max-width: 100%;
+			height: auto;
+			margin: 0 auto;
+		}
+
+		/* estilo para a navegação */
+		nav {
+			float: right;
+			width: 25%;
+			background-color: #333;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+
+		/* estilo para os links da navegação */
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			display: block;
+			margin-bottom: 10px;
+		}
+
+		nav a:hover {
+			background-color: #f2f2f2;
+			color: #333;
+		}
+
+		/* estilo para o rodapé */
+		footer {
+			clear: both;
+			background-color: #333;
+			color: #fff;
+			padding: 20px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Gustavo Gebauer Vitória</h1>
+	</header>
+
+	<aside>
+		<h2>Conteúdo relacionado</h2>
+		<ul>
+			<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjPybur3dz9AhWMpJUCHRxEDvoQFnoECBgQAw&url=https%3A%2F%2Fblog.portaleducacao.com.br%2Fo-crime-de-plagio%2F&usg=AOvVaw3Sn8CGQPh4ii1rImgG0fes">O Crime de Plágio</a></li>
+			<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjPybur3dz9AhWMpJUCHRxEDvoQFnoECAsQAQ&url=https%3A%2F%2Fstj.jusbrasil.com.br%2Fnoticias%2F3174944%2Fplagio-quando-a-copia-vira-crime&usg=AOvVaw1F434ImX8ZdmZE--r68Krf">Plágio: quando a cópia vira crime</a></li>
+			<li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjPybur3dz9AhWMpJUCHRxEDvoQFnoECBMQAQ&url=https%3A%2F%2Fvisaoconfiavel.com%2Fplagio-e-crime%2F&usg=AOvVaw20_4BkSMY95xMUA-5PfYrG">Plágio é crime: penas, multas, legislação e consequências</a></li>
+		</ul>
+	</aside>
+
+	<article>
+		<h2>Por que o plágio é considerado crime?</h2>
+		<img src="file://C:\Users\Gustavo\OneDrive\Documentos\Curso T.I\Atividades\HTML e CSS fundamentos\Atividade Prática Final\plagio\plagio.jpg" alt="Não ao plágio!">
+		<p>O plágio é considerado crime porque consiste em utilizar ideias, textos, imagens ou outras criações de terceiros sem atribuir os devidos créditos ou sem autorização. Isso fere o direito autoral e a propriedade intelectual do autor original e pode causar prejuízos morais e financeiros.
+
+Além disso, o plágio pode gerar distorções na produção de conhecimento e no desenvolvimento de novas ideias, prejudicando a qualidade e a originalidade das produções intelectuais.
+
+Em diversas áreas, como na literatura, na música, no cinema e na pesquisa acadêmica, o plágio é visto como uma prática antiética e desonesta, e é punido por leis e regulamentos específicos.</p>
+	</article>
+
+	<nav>
+		<h2>Navegação</h2>
+		<ul>
+			<li><a href="#">Início</a></li>
+			<li><a href="#">Sobre Nós</a></li>
+			<li><a href="#">Fale Conosco</a></li>
+		</ul>
+	</nav>
+
+	<footer>
+		<p>14 de março de 2023, 22h04 - escrito por Gustavo Gebauer Vitória - Todos os direitos Reservados.</p>
+	</footer>
+	
+</body>
+</html>
